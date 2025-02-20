@@ -1,0 +1,19 @@
+- name: Git & Version Control
+  percentage: 70
+  color: primary
+
+- name: Linux Server Management
+  percentage: 50
+  color: warning
+
+- name: Unity Game Engine
+  percentage: 85
+  color: success
+
+- name: Unreal Engine
+  percentage: 50
+  color: warning
+
+- name: Godot Engine
+  percentage: 55
+  color: warning
